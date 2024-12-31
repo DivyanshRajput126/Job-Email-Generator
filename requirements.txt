@@ -1,4 +1,3 @@
-python==3.10.0
 streamlit
 chromadb
 langchain_community
