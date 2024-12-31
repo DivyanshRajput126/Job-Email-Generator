@@ -4,4 +4,4 @@ langchain_community
 langchain_groq
 pandas
 langchain_core
-sqlite3
+sqlite == 3.35.0
