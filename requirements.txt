@@ -4,5 +4,3 @@ langchain_community
 langchain_groq
 pandas
 langchain_core
-sqlite3
-libsqlite3-dev
