@@ -1,5 +1,6 @@
 import pandas as pd
 import chromadb
+import sqlite3
 from chromadb import PersistentClient
 from chromadb.config import Settings
 import uuid
