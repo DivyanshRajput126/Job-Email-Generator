@@ -5,4 +5,3 @@ pandas
 langchain_core
 dotenv
 os
-streamlit
