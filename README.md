@@ -13,4 +13,6 @@ Job Email Generator is LLM Project which is finetuned to generate cold mail to b
 Divyansh Rajput - <a href="https://divyansh-portfolio126.netlify.app/" target=_blank>Portfolio</a>
 
 # Video Explaination
-[![Watch The video]("1735657314362.mp4")]
+<video>
+  <source src="1735657314362.mp4">
+</video>
